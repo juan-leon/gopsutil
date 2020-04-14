@@ -15,9 +15,9 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/shirou/gopsutil/cpu"
-	"github.com/shirou/gopsutil/internal/common"
-	"github.com/shirou/gopsutil/net"
+	"github.com/juan-leon/gopsutil/cpu"
+	"github.com/juan-leon/gopsutil/internal/common"
+	"github.com/juan-leon/gopsutil/net"
 	"golang.org/x/sys/unix"
 )
 

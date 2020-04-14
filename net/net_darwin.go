@@ -6,7 +6,7 @@ import (
 	"context"
 	"errors"
 	"fmt"
-	"github.com/shirou/gopsutil/internal/common"
+	"github.com/juan-leon/gopsutil/internal/common"
 	"os/exec"
 	"regexp"
 	"strconv"
